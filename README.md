@@ -17,13 +17,13 @@ See the [face detection](https://cloud.google.com/vision/docs/face-tutorial) tut
 
 [Python Code](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/api/face_detection)
 
-<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
-
 ### Label Detection
 
 See the [label detection](https://cloud.google.com/vision/docs/label-tutorial) tutorial in the docs.
 
 [Python Code](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/api/label)
+
+<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
 
 ### Label Tagging Using Kubernetes
 
