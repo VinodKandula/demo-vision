@@ -63,7 +63,7 @@ def main(photo_file):
         print('Displaying Google Vision API Results for %s' % (photo_file))
         import json
         print json.dumps(response['responses'], indent=4, sort_keys=True)
-        print('\n\n ---> To see the source code that invokes the API and shows results see ~/vision-demo/label.py')
+        print('\n\n ---> To see the source code that invokes the API and shows results open ~/vision-demo/label.py')
         print('************************************************************************************************')
         # [END parse_response]
 
