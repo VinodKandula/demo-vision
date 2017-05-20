@@ -1,6 +1,5 @@
 # Cloud Vision API Python samples
 
-<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
 
 This directory contains [Cloud Vision API](https://cloud.google.com/vision/) Python samples and utilities.
 
@@ -17,6 +16,8 @@ Some of the samples require additional setup, which their READMEs will specify.
 See the [face detection](https://cloud.google.com/vision/docs/face-tutorial) tutorial in the docs.
 
 [Python Code](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/api/face_detection)
+
+<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
 
 ### Label Detection
 
