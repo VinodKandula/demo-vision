@@ -1,6 +1,6 @@
 # Cloud Vision API Python samples
 
-<a href="http://console.cloud.google.com/cloudshell">Open in Cloud Shell</a><br><br>
+<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
 
 This directory contains [Cloud Vision API](https://cloud.google.com/vision/) Python samples and utilities.
 
