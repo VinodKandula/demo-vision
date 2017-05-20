@@ -23,7 +23,7 @@ See the [label detection](https://cloud.google.com/vision/docs/label-tutorial) t
 
 [Python Code](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/api/label)
 
-<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br>
+<!-- <a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br><br> -->
 
 ### Label Tagging Using Kubernetes
 
