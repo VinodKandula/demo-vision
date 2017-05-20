@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skotwani-helloworld",
+  "private_key_id": "2edd32f6731b4cd5768685717aaa6a067c2330d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNCNwVGxB31zkp\nmnBmCDXapzkpPjRVj6p+T14vyu3VOPyMhaPGEah6EiEpk7ojMn4UAcponlY42RKK\nv20CkADdUPukOmFkfGWTRz8/7CjeHPZUgrDli7a1Egr5Qk8pEEfeMQJRPTqQIpEQ\nGghSwXVF7JOryBgZ0uS0QHLWzEuIiMvlb/Fh8SDm7e6CnImRLjF+o70g+Kr3pJ7R\nrTe7J2KwcnLjdYmNRNh4rmj5sf9SBy8TDi9o/88b9+e0zLbwArfMw9T9UFEgO1sT\nq3r+e8BNGMhDpG5SCg0+HmyJzT6D5yeNNWW75531GCJ4kr5DEcCR8sm3NISd1RQj\n48G6toWTAgMBAAECggEATh76kBYcS7UW5BmiitXFAzck6eh4E0Omj/LYrbgRr2TD\noR0IPh8bRMuklA1j5iZGcIQQJZVyv71BudjfBZNtqOXCw5u04Q8euqNyX34xQhPh\n7WhQU13M8yfZQ4i21awM3gVpXx/HsQRipjJtCm8IqmhOCa03NZurpVxLBTmY6/+Y\nWlKOuVlV/qWtL9wU1u+42ctP+ki1p0sj01FjmtLJuttGRbjhnYXR+ScnV1IF3B6B\n4+wShvsbPOSTGpMgcyQjXVrJe88Na+nUT3gUsHItWs2jOtf8g5sj4OM2OZ3toWeE\nd8P0TEPLW/FFyugFYAn2EsnEdtIiGx/tZ5zqG4qi1QKBgQDzmjjia5/9eodYY7es\ngitwm1gR+B5A5JLJ7QLYX4aEOdnJIJO6Qn225T6MuAxDxwZeqw6uYwwRhdbUXAmf\nxpzyq0I7DxFbAQBPadNRu9IHyJ8r5iSAp0j2m9VDKWiGwXrNRkm6WbChGeU4sfrB\nzJzhQ6XFMMJ5xKqUVDp7N4ah7wKBgQDXeCfzlbyH27ir6UCU9Jh43zFs8Zj7IaKH\nS6foXBIBZqOPTkXsUmf0spjOrDQ24m82tR/+UEdIXSzz4aqNRKwesCrydN75Sk1h\nD3Q7e7T+uAsNRZMA/cOPMCSkevhtcEgsnx1z+AR6v+Qc97/RXL72iijLX7uJCJok\n8Pje1qwqnQKBgQDjpxbOEoJb4mwl4FrALo3mGGa/tD6hqnq7lnF4QB136JBs87La\n+FR/3dEMtNtRY+fCBN4dfpbCsW9I2hJsbLIz3nRwuO4hO9hMXruLwJjRiV2nKtam\nHK+FN7CfqUzz0lCvEabJLhRxGcArsbiD8HIT2qJKm/zCy1YWdHiKuiNppQKBgDiV\n4pASw8c+CbqD8CTuM1iS7Mz6ib1x8NftI3RfMY9SoCOTX8OXRJu7h2vHR5MeViyc\n1oEYHhA///0wR3UAEt+gTjcMQD5hp/6Ua2bvrvGx7Z0Xp2p8Oi5Ra14SuUksUpf9\nVWPOP4bo/AQrgCGAZNokIGCAjKSJMMoAyqri36X1AoGBANTrcNo1o7GaSN4NaOQz\n1udOqSR11cIyIGpTMTz7xlTSMGNvWffxcIyxCZfQJv2piqu03UangMECOy9Erwwl\nMpSVCAlQ2ngJisQ3CQT4pcAOUwQyRVCFAEgTAhdrRmY70U8n9HdPLDOZss3GIPpj\n6ItHYt4nogXJyMpKKjGYs7a/\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-quickstart@skotwani-helloworld.iam.gserviceaccount.com",
+  "client_id": "109965731157316692254",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-quickstart%40skotwani-helloworld.iam.gserviceaccount.com"
+}
