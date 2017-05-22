@@ -3,12 +3,6 @@
 
 This directory contains [Cloud Vision API](https://cloud.google.com/vision/) Python samples and utilities.
 
-## Prerequisites
-
-You must have Python and `pip` installed.
-
-Some of the samples require additional setup, which their READMEs will specify.
-
 ## Samples
 
 ### Label Detection
@@ -41,3 +35,9 @@ images that match a given set of words, and to list text that was found in each
 matching image.
 
 [Documentation and Python Code](text)
+
+## Prerequisites
+
+You must have Python and `pip` installed.
+
+Some of the samples require additional setup, which their READMEs will specify.
