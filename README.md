@@ -7,7 +7,7 @@ This directory contains [Cloud Vision API](https://cloud.google.com/vision/) Pyt
 
 ### Label Detection
 
-<a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br>
+<!-- <a href="http://console.cloud.google.com/cloudshell"><img src="button.png" border=0></a><br> -->
 
 See the [label detection](https://cloud.google.com/vision/docs/label-tutorial) tutorial in the docs.
 
